@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html,body{
+    font-size: 10px;
+}
+body{
+    height: 100vh;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+h1{
+    font-size: 6rem;
+    font-weight: 900;
+
+}
+span{
+    font-size: 10rem;
+    color: brown;
+}
+button{
+    padding: 0.5rem 2rem;
+    margin: 1rem;
+   font-weight: 300;
+   color: black;
+   border-radius: 5px;
+   background-color: #C060A1;
+
+}
